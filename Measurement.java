@@ -1,5 +1,4 @@
 /*
-*CSCI 185 Fall 2020 M01/2
 *Java GUI: Measurement Unit Converter
 *Ameer Ahmed
 *Dec 1, 2020
